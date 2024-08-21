@@ -1,0 +1,151 @@
+# ---- System Files ----
+.DS_Store
+Thumbs.db
+
+# ---- IDEs and Editors ----
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# JetBrains (IntelliJ, PyCharm, etc.)
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Eclipse
+.project
+.classpath
+.csettings
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Vim
+*.swp
+*.swo
+*.swn
+
+# Emacs
+*~
+\#*\#
+
+# ---- OS Generated Files ----
+# macOS
+.AppleDouble
+.LSOverride
+Icon\r
+__MACOSX/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# ---- Node.js ----
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnp.cjs
+.pnp.loader.mjs
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pydist
+*.pypkg
+*.pyo
+*.pyz
+*.pyz.dist
+*.env/
+.venv/
+env/
+venv/
+instance/
+.pytest_cache/
+*.egg-info/
+.eggs/
+
+# ---- Java ----
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+out/
+target/
+bin/
+
+# ---- Logs and Temporary Files ----
+*.log
+*.tmp
+*.temp
+*.pid
+*.seed
+*.pid.lock
+
+# ---- Archives ----
+*.zip
+*.tar.gz
+*.tar.bz2
+*.rar
+*.7z
+
+# ---- Build Output ----
+build/
+dist/
+tmp/
+temp/
+out/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+
+# ---- Dependency directories ----
+/vendor/
+/composer.lock
+
+# ---- Environment variables ----
+.env
+.env.*
+*.env.local
+*.env.test
+*.env.production
+
+# ---- Database files ----
+*.sqlite3
+*.db
+*.sql
+*.pdb
+
+# ---- Other Common Files ----
+*.bak
+*.orig
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
